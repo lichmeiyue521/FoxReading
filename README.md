@@ -1,3 +1,2 @@
-# FoxReading
-ForexAsking     developing changing
+# FIRST READING FILE
 The second Time
