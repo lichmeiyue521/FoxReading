@@ -1,3 +1,3 @@
 # FoxReading
-ForexAsking     developing changing
-The second Time
+ABCDEFGGHISG
+The THIRD Time
