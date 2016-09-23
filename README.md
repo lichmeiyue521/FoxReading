@@ -1,2 +1,2 @@
 # FoxReading
-ForexAsking
+ForexAsking     developing changing
