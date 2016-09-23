@@ -1,2 +1,3 @@
 # FoxReading
-ForexAsking
+ForexAsking     developing changing
+The second Time
